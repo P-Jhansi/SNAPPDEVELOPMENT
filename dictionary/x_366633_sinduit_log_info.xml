@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log info" max_length="40" name="x_366633_sinduit_log_info" sizeclass="1" type="collection">
+        <element choice="1" label="C" mandatory="true" max_length="100" name="c" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="awt" value="awt"/>
+                <element inactive_on_update="false" label="dgdfg" value="ert"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Info" max_length="40" name="info" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true" label="New Currency" max_length="20" name="u_currency_1" type="currency"/>
+        <element attributes="omit_sys_original=true" label="New Currency" max_length="20" name="u_currency_2" type="currency"/>
+    </element>
+</database>

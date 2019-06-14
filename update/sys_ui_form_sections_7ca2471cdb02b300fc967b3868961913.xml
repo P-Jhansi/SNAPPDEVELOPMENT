@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="7ca2471cdb02b300fc967b3868961913" sys_domain="global" table="x_366633_sinduit_log_info" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:41:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49a2471cdb02b300fc967b3868961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366633_sinduit_log_info" name="x_366633_sinduit_log_info" sys_domain="global" view="f4a2471cdb02b300fc967b386896190f">7ca2471cdb02b300fc967b3868961913</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_366633_sinduit_log_info" sys_domain="global" view="f4a2471cdb02b300fc967b386896190f">f8a2471cdb02b300fc967b3868961912</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:41:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:41:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05a2471cdb02b300fc967b3868961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366633_sinduit_log_info" name="x_366633_sinduit_log_info" sys_domain="global" view="f4a2471cdb02b300fc967b386896190f">7ca2471cdb02b300fc967b3868961913</sys_ui_form>
+            <sys_ui_section caption="hello" display_value="hello" name="x_366633_sinduit_log_info" sys_domain="global" view="f4a2471cdb02b300fc967b386896190f">b0a2471cdb02b300fc967b3868961913</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:41:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_366633_sinduit_log_info</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:41:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ca2471cdb02b300fc967b3868961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366633_sinduit_log_info</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sinduit" source="x_366633_sinduit">fddbfd5cdb4e7300fc967b38689619c0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sinduit">fddbfd5cdb4e7300fc967b38689619c0</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7ca2471cdb02b300fc967b3868961913</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:41:45</sys_updated_on>
+            <sys_user/>
+            <view display_value="hello view" name="hello_view">f4a2471cdb02b300fc967b386896190f</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

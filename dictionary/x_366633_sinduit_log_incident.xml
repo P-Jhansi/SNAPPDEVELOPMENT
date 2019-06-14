@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log incident" max_length="40" name="x_366633_sinduit_log_incident" sizeclass="1" type="collection">
+        <element label="Affected user" max_length="32" name="affected_user" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element choice="3" label="Ccc" max_length="100" name="ccc" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="erf" value="trrg"/>
+                <element inactive_on_update="false" label="phone" value="phone"/>
+                <element inactive_on_update="false" label="ryt" value="ryt"/>
+                <element inactive_on_update="false" label="trf" value="rtgfhy"/>
+            </choice>
+        </element>
+        <element choice="1" label="Ctype1" max_length="100" name="ctype1" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ertb" value="8778978"/>
+                <element inactive_on_update="false" label="hyd" value="78"/>
+            </choice>
+        </element>
+        <element label="History" max_length="32" name="history" reference="alm_hardware" type="reference"/>
+        <element choice="1" label="incident contact type" max_length="100" name="incident_contact_type" type="choice">
+            <choice/>
+        </element>
+        <element label="j1j" max_length="100" name="j1j" type="journal"/>
+        <element default="text default" label="sindu" max_length="100" name="sindu" type="string"/>
+        <element default="sriindu desc" label="sindudesc" max_length="100" name="sindudesc" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true" label="New Currency" max_length="20" name="u_currency_2" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="fjhgt8u7" max_length="40" name="u_glide_date_1" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="request date" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="return date" max_length="40" name="u_glide_date_time_2" type="glide_date_time"/>
+    </element>
+</database>

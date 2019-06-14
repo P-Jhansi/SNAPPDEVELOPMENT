@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="log info">4c7fb298db02b300fc967b3868961999</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="change_request">123TEXTQUERY321=window^EQ<item endquery="false" field="123TEXTQUERY321" goto="false" newquery="false" operator="=" or="false" value="window"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>rt</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>log info</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>change_request</name>
+        <order>20</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 10:01:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>37d643dcdb02b300fc967b3868961906</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>log info</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sinduit" source="x_366633_sinduit">fddbfd5cdb4e7300fc967b38689619c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">fddbfd5cdb4e7300fc967b38689619c0</sys_scope>
+        <sys_update_name>sys_app_module_37d643dcdb02b300fc967b3868961906</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 10:02:23</sys_updated_on>
+        <timeline_page/>
+        <title>log info</title>
+        <uncancelable>false</uncancelable>
+        <view_name>info</view_name>
+        <window_name/>
+    </sys_app_module>
+</record_update>
